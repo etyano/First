@@ -9,7 +9,7 @@ public class HelloWorldSWT {
 
 Display display = new Display();
 Shell shell = new Shell(display);
-shell.setText("Hello world!");
+shell.setText("Hello World!");
 shell.open();
 while (!shell.isDisposed()) {
 if (!display.readAndDispatch()) display.sleep();
