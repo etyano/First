@@ -70,6 +70,12 @@ c.digit(1);
 c.digit(2);
 c.compute();
 System.out.println(c.display());
+c.clear();
+c.digit(8);
+c.divide();
+c.digit(2);
+c.compute();
+System.out.println(c.display());
 	}
 
 }
