@@ -3,7 +3,7 @@
  */
 
 /**
- * @author yano
+ * @author  EdgarYano
  *
  */
 public class CalculatorEngine {
@@ -62,7 +62,7 @@ int display() {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 CalculatorEngine c = new CalculatorEngine();
-c.digit(1); // coment·rio
+c.digit(1); // coment√°rio
 c.digit(5);
 c.digit(2);
 c.multiply();
