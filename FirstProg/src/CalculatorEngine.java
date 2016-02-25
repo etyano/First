@@ -63,10 +63,10 @@ int display() {
 		// TODO Auto-generated method stub
 CalculatorEngine c = new CalculatorEngine();
 c.digit(1);
-c.digit(3);
+c.digit(5);
 c.add();
 c.digit(1);
-c.digit(1);
+c.digit(2);
 c.compute();
 System.out.println(c.display());
 	}
