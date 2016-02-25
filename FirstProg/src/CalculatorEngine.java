@@ -65,7 +65,7 @@ CalculatorEngine c = new CalculatorEngine();
 c.digit(1); // comentário
 c.digit(5);
 c.digit(2);
-c.add();
+c.multiply();
 c.digit(1);
 c.digit(2);
 c.compute();
