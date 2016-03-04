@@ -66,8 +66,8 @@ c.digit(1); // comentário
 c.digit(5);
 c.digit(2);
 c.multiply();
-c.digit(1);
-c.digit(2);
+c.digit(10);
+c.digit(20);
 c.compute();
 System.out.println(c.display());
 c.clear();
