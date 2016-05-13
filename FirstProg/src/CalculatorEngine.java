@@ -64,7 +64,7 @@ int display() {
 CalculatorEngine c = new CalculatorEngine();
 c.digit(1); // comentário
 c.digit(5);
-c.digit(2);
+c.digit(3);
 c.multiply();
 c.digit(10);
 c.digit(20);
